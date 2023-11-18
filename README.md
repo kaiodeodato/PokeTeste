@@ -41,10 +41,5 @@ PokeTeste is a Windows Forms Application that interacts with the PokeAPI to retr
 
 - [PokeAPI](https://pokeapi.co/)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
 
 
