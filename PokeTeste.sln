@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeTeste", "PokeTeste\PokeTeste.csproj", "{64D76437-8809-4E0C-8854-92190F3404B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{784D53BD-0C8E-4D2C-9D5C-0AA7DC6FC5B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64D76437-8809-4E0C-8854-92190F3404B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D76437-8809-4E0C-8854-92190F3404B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D76437-8809-4E0C-8854-92190F3404B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D76437-8809-4E0C-8854-92190F3404B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784D53BD-0C8E-4D2C-9D5C-0AA7DC6FC5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784D53BD-0C8E-4D2C-9D5C-0AA7DC6FC5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784D53BD-0C8E-4D2C-9D5C-0AA7DC6FC5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784D53BD-0C8E-4D2C-9D5C-0AA7DC6FC5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D483F279-A505-477A-962D-24AB0479C327}
+	EndGlobalSection
+EndGlobal
